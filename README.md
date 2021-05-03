@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amylokh
+- 👋 Hi, I’m amylokh
 - 👀 I’m interested in Full Stack Development
 - 📫 How to reach me - Email @ amylokh@gmail.com
 - 💻 My LinkedIn Profile - https://www.linkedin.com/in/amey-lokhande/
